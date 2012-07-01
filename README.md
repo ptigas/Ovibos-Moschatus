@@ -1,25 +1,38 @@
 <table>
   <tr>
     <th></th>
-    <th>Tables</th>
-    <th>Are</th>
-    <th>Cool</th>
+    <th>Compose</th>
+    <th>Send</th>
+    <th>Receive</th>
   </tr>
   <tr>
-    <th>Zebra</th>
-    <td>Stripes</td>
-    <td>Are</td>
-    <td>Pretty</td>
+    <th>Gmail</th>
+    <td>Perfect</td>
+    <td>Perfect</td>
+    <td>Perfect</td>
   </tr>
   <tr>
-    <th>Here</th>
-    <td>Is</td>
-    <td>Another</td>
-    <td>Row</td>
+    <th>Thunderbird</th>
+    <td>Perfect</td>
+    <td>Perfect</td>
+    <td>Perfect</td>
+  </tr>
+  <tr>
+    <th>Hotmail</th>
+    <td>Perfect</td>
+    <td>Perfect</td>
+    <td>Email from received from Yahoo does not display with properly separated paragraphs. (Hotmail strips styling off <code>&lt;p&gt;</code> and <code>&lt;div&gt;</code> tags, and Yahoo uses the latter for paragraphs.)</td>
+  </tr>
+  <tr>
+    <th>Yahoo</th>
+    <td>Perfect</td>
+    <td>Perfect</td>
+    <td>Perfect</td>
+  </tr>
+  <tr>
+    <th>Google Groups</th>
+    <td>Perfect</td>
+    <td>Perfect</td>
+    <td>Perfect</td>
   </tr>
 </table>
-
-First Header | Second Header
------------- | -------------
-Content Cell | Content Cell
-Content Cell | Content Cell
