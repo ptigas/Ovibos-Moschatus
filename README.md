@@ -1,4 +1,4 @@
-<table class="data" style="margin-left: auto; margin-right: auto;">
+<table>
 <thead>
 <tr class="header">
 <th scope="col" align="left">species</th>
