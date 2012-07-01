@@ -33,15 +33,92 @@ statistics about mitochondrial DNA of the investigated species. The base
 count does not reveal any significant difference among the species,
 except for the chicken whch is the outgroup.
 
-  species                common name         accession no.   %A        %C        %G        %T        length
-  ---------------------- ------------------- --------------- --------- --------- --------- --------- --------
-  Ovibos moschatus       muskox              FJ207536        33.3698   26.5291   13.2554   26.7787   16431
-  Budorcas taxicolor     takin               NC\_013069      33.8573   26.3095   12.8577   26.9755   16667
-  Ovis aries             sheep               NC\_001941      33.6663   25.8125   13.1259   27.3953   16616
-  Capricornis crispus    Japanese serow      NC\_012096      33.7446   26.7064   13.0067   26.5423   16453
-  Naemorhedus caudatus   Long-tailed goral   NC\_013751      33.6340   25.9580   13.1243   27.2656   16519
-  Naemorhedus swinhoei   Taiwan serow        NC\_010640      33.3999   26.6521   13.3442   26.6037   16524
-  Gallus gallus          chicken             NC\_007236      30.2472   32.4873   13.5240   23.7414   16785
+  <table class="data" style="margin-left: auto; margin-right: auto;">
+<thead>
+<tr class="header">
+<th scope="col" align="left">species</th>
+<th scope="col" align="left">common name</th>
+<th scope="col" align="left">accession no.</th>
+<th scope="col" align="left">%A</th>
+<th scope="col" align="left">%C</th>
+<th scope="col" align="left">%G</th>
+<th scope="col" align="left">%T</th>
+<th scope="col" align="left">length</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Ovibos moschatus</td>
+<td align="left">muskox</td>
+<td align="left">FJ207536</td>
+<td align="left">33.3698</td>
+<td align="left">26.5291</td>
+<td align="left">13.2554</td>
+<td align="left">26.7787</td>
+<td align="left">16431</td>
+</tr>
+<tr class="even">
+<td align="left">Budorcas taxicolor</td>
+<td align="left">takin</td>
+<td align="left">NC_013069</td>
+<td align="left">33.8573</td>
+<td align="left">26.3095</td>
+<td align="left">12.8577</td>
+<td align="left">26.9755</td>
+<td align="left">16667</td>
+</tr>
+<tr class="odd">
+<td align="left">Ovis aries</td>
+<td align="left">sheep</td>
+<td align="left">NC_001941</td>
+<td align="left">33.6663</td>
+<td align="left">25.8125</td>
+<td align="left">13.1259</td>
+<td align="left">27.3953</td>
+<td align="left">16616</td>
+</tr>
+<tr class="even">
+<td align="left">Capricornis crispus</td>
+<td align="left">Japanese serow</td>
+<td align="left">NC_012096</td>
+<td align="left">33.7446</td>
+<td align="left">26.7064</td>
+<td align="left">13.0067</td>
+<td align="left">26.5423</td>
+<td align="left">16453</td>
+</tr>
+<tr class="odd">
+<td align="left">Naemorhedus caudatus</td>
+<td align="left">Long-tailed goral</td>
+<td align="left">NC_013751</td>
+<td align="left">33.6340</td>
+<td align="left">25.9580</td>
+<td align="left">13.1243</td>
+<td align="left">27.2656</td>
+<td align="left">16519</td>
+</tr>
+<tr class="even">
+<td align="left">Naemorhedus swinhoei</td>
+<td align="left">Taiwan serow</td>
+<td align="left">NC_010640</td>
+<td align="left">33.3999</td>
+<td align="left">26.6521</td>
+<td align="left">13.3442</td>
+<td align="left">26.6037</td>
+<td align="left">16524</td>
+</tr>
+<tr class="odd">
+<td align="left">Gallus gallus</td>
+<td align="left">chicken</td>
+<td align="left">NC_007236</td>
+<td align="left">30.2472</td>
+<td align="left">32.4873</td>
+<td align="left">13.5240</td>
+<td align="left">23.7414</td>
+<td align="left">16785</td>
+</tr>
+</tbody>
+</table>
 
 **figure 1.** Data Description
 
@@ -131,15 +208,92 @@ that Naemorhedus caudatus evolved more after its diversion from
 Naemorhedus swinhoei. Finally, I observed that Naemorhedus and
 Capricornis sumatraensis is closely related to Capricornis crispus.
 
-                         Ovibos moschatus   Budorcas taxicolor   Ovis aries   Capricornis crispus   Naemorhedus caudatus   Naemorhedus swinhoei   Gallus gallus
-  ---------------------- ------------------ -------------------- ------------ --------------------- ---------------------- ---------------------- ---------------
-  Ovibos moschatus       0                  0.0597               0.0541       0.0240                0.0486                 0.0240                 0.3191
-  Budorcas taxicolor     0.0137             0                    0.0739       0.0569                0.0710                 0.0625                 0.3154
-  Ovis aries             0.0058             0.0078               0            0.0514                0.0597                 0.0486                 0.3377
-  Capricornis crispus    0.0058             0.0137               0.0078       0                     0.0431                 0.0159                 0.3118
-  Naemorhedus caudatus   0.0098             0.0137               0.0078       0.0078                0                      0.0376                 0.3377
-  Naemorhedus swinhoei   0.0039             0.0117               0.0058       0.0019                0.0058                 0                      0.3191
-  Gallus gallus          0.1243             0.1243               0.1199       0.1243                0.1265                 0.1221                 0
+<table class="data">
+<thead>
+<tr class="header">
+<th scope="col" align="left"></th>
+<th scope="col" align="left">Ovibos moschatus</th>
+<th scope="col" align="left">Budorcas taxicolor</th>
+<th scope="col" align="left">Ovis aries</th>
+<th scope="col" align="left">Capricornis crispus</th>
+<th scope="col" align="left">Naemorhedus caudatus</th>
+<th scope="col" align="left">Naemorhedus swinhoei</th>
+<th scope="col" align="left">Gallus gallus</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Ovibos moschatus</td>
+<td align="left">0</td>
+<td align="left">0.0597</td>
+<td align="left">0.0541</td>
+<td align="left">0.0240</td>
+<td align="left">0.0486</td>
+<td align="left">0.0240</td>
+<td align="left">0.3191</td>
+</tr>
+<tr class="even">
+<td align="left">Budorcas taxicolor</td>
+<td align="left">0.0137</td>
+<td align="left">0</td>
+<td align="left">0.0739</td>
+<td align="left">0.0569</td>
+<td align="left">0.0710</td>
+<td align="left">0.0625</td>
+<td align="left">0.3154</td>
+</tr>
+<tr class="odd">
+<td align="left">Ovis aries</td>
+<td align="left">0.0058</td>
+<td align="left">0.0078</td>
+<td align="left">0</td>
+<td align="left">0.0514</td>
+<td align="left">0.0597</td>
+<td align="left">0.0486</td>
+<td align="left">0.3377</td>
+</tr>
+<tr class="even">
+<td align="left">Capricornis crispus</td>
+<td align="left">0.0058</td>
+<td align="left">0.0137</td>
+<td align="left">0.0078</td>
+<td align="left">0</td>
+<td align="left">0.0431</td>
+<td align="left">0.0159</td>
+<td align="left">0.3118</td>
+</tr>
+<tr class="odd">
+<td align="left">Naemorhedus caudatus</td>
+<td align="left">0.0098</td>
+<td align="left">0.0137</td>
+<td align="left">0.0078</td>
+<td align="left">0.0078</td>
+<td align="left">0</td>
+<td align="left">0.0376</td>
+<td align="left">0.3377</td>
+</tr>
+<tr class="even">
+<td align="left">Naemorhedus swinhoei</td>
+<td align="left">0.0039</td>
+<td align="left">0.0117</td>
+<td align="left">0.0058</td>
+<td align="left">0.0019</td>
+<td align="left">0.0058</td>
+<td align="left">0</td>
+<td align="left">0.3191</td>
+</tr>
+<tr class="odd">
+<td align="left">Gallus gallus</td>
+<td align="left">0.1243</td>
+<td align="left">0.1243</td>
+<td align="left">0.1199</td>
+<td align="left">0.1243</td>
+<td align="left">0.1265</td>
+<td align="left">0.1221</td>
+<td align="left">0</td>
+</tr>
+</tbody>
+</table>
 
 **figure 2.** seqpdist with jukes-cantor. Above diagonal is for CYTB and
 below diagonal is for COXI
@@ -149,41 +303,272 @@ below diagonal is for COXI
 **figure 3.** CYTB phylogenetic tree (AA) for the BLASTed animals
 [phytree]
 
-                         Ovibos moschatus   Budorcas taxicolor   Ovis aries   Capricornis crispus   Naemorhedus caudatus   Naemorhedus swinhoei   Gallus gallus
-  ---------------------- ------------------ -------------------- ------------ --------------------- ---------------------- ---------------------- ---------------
-  Ovibos moschatus       0.00               12.54                12.98        7.89                  9.65                   8.60                   8.60
-  Budorcas taxicolor     11.00              0.00                 12.89        12.46                 13.16                  12.98                  12.98
-  Ovis aries             10.23              10.36                0.00         11.32                 13.25                  11.67                  11.67
-  Capricornis crispus    8.09               10.10                10.49        0.00                  8.68                   5.96                   5.96
-  Naemorhedus caudatus   8.67               9.45                 9.64         6.80                  0.00                   9.47                   9.47
-  Naemorhedus swinhoei   8.03               10.16                10.68        3.56                  7.18                   0.00                   0.00
-  Gallus gallus          22.05              23.15                22.57        21.60                 22.95                  22.31                  22.31
+<table class="data">
+<thead>
+<tr class="header">
+<th scope="col" align="left"></th>
+<th scope="col" align="left">Ovibos moschatus</th>
+<th scope="col" align="left">Budorcas taxicolor</th>
+<th scope="col" align="left">Ovis aries</th>
+<th scope="col" align="left">Capricornis crispus</th>
+<th scope="col" align="left">Naemorhedus caudatus</th>
+<th scope="col" align="left">Naemorhedus swinhoei</th>
+<th scope="col" align="left">Gallus gallus</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Ovibos moschatus</td>
+<td align="left">0.00</td>
+<td align="left">12.54</td>
+<td align="left">12.98</td>
+<td align="left">7.89</td>
+<td align="left">9.65</td>
+<td align="left">8.60</td>
+<td align="left">8.60</td>
+</tr>
+<tr class="even">
+<td align="left">Budorcas taxicolor</td>
+<td align="left">11.00</td>
+<td align="left">0.00</td>
+<td align="left">12.89</td>
+<td align="left">12.46</td>
+<td align="left">13.16</td>
+<td align="left">12.98</td>
+<td align="left">12.98</td>
+</tr>
+<tr class="odd">
+<td align="left">Ovis aries</td>
+<td align="left">10.23</td>
+<td align="left">10.36</td>
+<td align="left">0.00</td>
+<td align="left">11.32</td>
+<td align="left">13.25</td>
+<td align="left">11.67</td>
+<td align="left">11.67</td>
+</tr>
+<tr class="even">
+<td align="left">Capricornis crispus</td>
+<td align="left">8.09</td>
+<td align="left">10.10</td>
+<td align="left">10.49</td>
+<td align="left">0.00</td>
+<td align="left">8.68</td>
+<td align="left">5.96</td>
+<td align="left">5.96</td>
+</tr>
+<tr class="odd">
+<td align="left">Naemorhedus caudatus</td>
+<td align="left">8.67</td>
+<td align="left">9.45</td>
+<td align="left">9.64</td>
+<td align="left">6.80</td>
+<td align="left">0.00</td>
+<td align="left">9.47</td>
+<td align="left">9.47</td>
+</tr>
+<tr class="even">
+<td align="left">Naemorhedus swinhoei</td>
+<td align="left">8.03</td>
+<td align="left">10.16</td>
+<td align="left">10.68</td>
+<td align="left">3.56</td>
+<td align="left">7.18</td>
+<td align="left">0.00</td>
+<td align="left">0.00</td>
+</tr>
+<tr class="odd">
+<td align="left">Gallus gallus</td>
+<td align="left">22.05</td>
+<td align="left">23.15</td>
+<td align="left">22.57</td>
+<td align="left">21.60</td>
+<td align="left">22.95</td>
+<td align="left">22.31</td>
+<td align="left">22.31</td>
+</tr>
+</tbody>
+</table>
 
 **figure 4.** local alignment % score for each pair (nucleotide
 sequences)- Above diagonal is for CYTB and below diagonal is for COXI
 
-                            Ovibos moschatus   Budorcas taxicolor   Ovis aries   Capricornis crispus   Naemorhedus caudatus   Naemorhedus swinhoei   Gallus gallus
-  ------------------------- ------------------ -------------------- ------------ --------------------- ---------------------- ---------------------- ---------------
-  Ovibos moschatus          0.00               6.15                 5.56         2.43                  4.97                   2.43                   2.43
-  Budorcas taxicolor        1.38               0.00                 7.65         5.85                  7.34                   6.44                   6.44
-  Ovis aries                0.59               0.78                 0.00         5.26                  6.15                   4.97                   4.97
-  Capricornis crispus       0.59               1.38                 0.78         0.00                  4.40                   1.60                   1.60
-  Naemorhedus caudatus      0.98               1.38                 0.78         0.78                  0.00                   3.83                   3.83
-  Naemorhedus swinhoei      0.39               1.18                 0.59         0.19                  0.59                   0.00                   0.00
-  Gallus gallus (chicken)   13.25              13.25                12.75        13.25                 13.50                  13.00                  13.00
+<table class="data">
+<thead>
+<tr class="header">
+<th scope="col" align="left"></th>
+<th scope="col" align="left">Ovibos moschatus</th>
+<th scope="col" align="left">Budorcas taxicolor</th>
+<th scope="col" align="left">Ovis aries</th>
+<th scope="col" align="left">Capricornis crispus</th>
+<th scope="col" align="left">Naemorhedus caudatus</th>
+<th scope="col" align="left">Naemorhedus swinhoei</th>
+<th scope="col" align="left">Gallus gallus</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Ovibos moschatus</td>
+<td align="left">0.00</td>
+<td align="left">6.15</td>
+<td align="left">5.56</td>
+<td align="left">2.43</td>
+<td align="left">4.97</td>
+<td align="left">2.43</td>
+<td align="left">2.43</td>
+</tr>
+<tr class="even">
+<td align="left">Budorcas taxicolor</td>
+<td align="left">1.38</td>
+<td align="left">0.00</td>
+<td align="left">7.65</td>
+<td align="left">5.85</td>
+<td align="left">7.34</td>
+<td align="left">6.44</td>
+<td align="left">6.44</td>
+</tr>
+<tr class="odd">
+<td align="left">Ovis aries</td>
+<td align="left">0.59</td>
+<td align="left">0.78</td>
+<td align="left">0.00</td>
+<td align="left">5.26</td>
+<td align="left">6.15</td>
+<td align="left">4.97</td>
+<td align="left">4.97</td>
+</tr>
+<tr class="even">
+<td align="left">Capricornis crispus</td>
+<td align="left">0.59</td>
+<td align="left">1.38</td>
+<td align="left">0.78</td>
+<td align="left">0.00</td>
+<td align="left">4.40</td>
+<td align="left">1.60</td>
+<td align="left">1.60</td>
+</tr>
+<tr class="odd">
+<td align="left">Naemorhedus caudatus</td>
+<td align="left">0.98</td>
+<td align="left">1.38</td>
+<td align="left">0.78</td>
+<td align="left">0.78</td>
+<td align="left">0.00</td>
+<td align="left">3.83</td>
+<td align="left">3.83</td>
+</tr>
+<tr class="even">
+<td align="left">Naemorhedus swinhoei</td>
+<td align="left">0.39</td>
+<td align="left">1.18</td>
+<td align="left">0.59</td>
+<td align="left">0.19</td>
+<td align="left">0.59</td>
+<td align="left">0.00</td>
+<td align="left">0.00</td>
+</tr>
+<tr class="odd">
+<td align="left">Gallus gallus (chicken)</td>
+<td align="left">13.25</td>
+<td align="left">13.25</td>
+<td align="left">12.75</td>
+<td align="left">13.25</td>
+<td align="left">13.50</td>
+<td align="left">13.00</td>
+<td align="left">13.00</td>
+</tr>
+</tbody>
+</table>
 
 **figure 5.** local alignment % score for each pair (amino acid
 sequences)- Above diagonal is for CYTB and below diagonal is for COXI
 
-                         Ovibos moschatus   Budorcas taxicolor   Ovis aries   Capricornis crispus   Naemorhedus caudatus   Naemorhedus swinhoei   Gallus gallus
-  ---------------------- ------------------ -------------------- ------------ --------------------- ---------------------- ---------------------- ---------------
-  Ovibos moschatus       0                  143                  148          90                    110                    98                     98
-  Budorcas taxicolor     170                0                    147          142                   150                    148                    148
-  Ovis aries             158                160                  0            129                   151                    133                    133
-  Capricornis crispus    125                156                  162          0                     99                     68                     68
-  Naemorhedus caudatus   134                146                  149          105                   0                      108                    108
-  Naemorhedus swinhoei   124                157                  165          55                    111                    0                      0
-  Gallus gallus          342                359                  350          335                   356                    346                    346
+<table class="data">
+<thead>
+<tr class="header">
+<th scope="col" align="left"></th>
+<th scope="col" align="left">Ovibos moschatus</th>
+<th scope="col" align="left">Budorcas taxicolor</th>
+<th scope="col" align="left">Ovis aries</th>
+<th scope="col" align="left">Capricornis crispus</th>
+<th scope="col" align="left">Naemorhedus caudatus</th>
+<th scope="col" align="left">Naemorhedus swinhoei</th>
+<th scope="col" align="left">Gallus gallus</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Ovibos moschatus</td>
+<td align="left">0</td>
+<td align="left">143</td>
+<td align="left">148</td>
+<td align="left">90</td>
+<td align="left">110</td>
+<td align="left">98</td>
+<td align="left">98</td>
+</tr>
+<tr class="even">
+<td align="left">Budorcas taxicolor</td>
+<td align="left">170</td>
+<td align="left">0</td>
+<td align="left">147</td>
+<td align="left">142</td>
+<td align="left">150</td>
+<td align="left">148</td>
+<td align="left">148</td>
+</tr>
+<tr class="odd">
+<td align="left">Ovis aries</td>
+<td align="left">158</td>
+<td align="left">160</td>
+<td align="left">0</td>
+<td align="left">129</td>
+<td align="left">151</td>
+<td align="left">133</td>
+<td align="left">133</td>
+</tr>
+<tr class="even">
+<td align="left">Capricornis crispus</td>
+<td align="left">125</td>
+<td align="left">156</td>
+<td align="left">162</td>
+<td align="left">0</td>
+<td align="left">99</td>
+<td align="left">68</td>
+<td align="left">68</td>
+</tr>
+<tr class="odd">
+<td align="left">Naemorhedus caudatus</td>
+<td align="left">134</td>
+<td align="left">146</td>
+<td align="left">149</td>
+<td align="left">105</td>
+<td align="left">0</td>
+<td align="left">108</td>
+<td align="left">108</td>
+</tr>
+<tr class="even">
+<td align="left">Naemorhedus swinhoei</td>
+<td align="left">124</td>
+<td align="left">157</td>
+<td align="left">165</td>
+<td align="left">55</td>
+<td align="left">111</td>
+<td align="left">0</td>
+<td align="left">0</td>
+</tr>
+<tr class="odd">
+<td align="left">Gallus gallus</td>
+<td align="left">342</td>
+<td align="left">359</td>
+<td align="left">350</td>
+<td align="left">335</td>
+<td align="left">356</td>
+<td align="left">346</td>
+<td align="left">346</td>
+</tr>
+</tbody>
+</table>
 
 **figure 6.** number of polymorphic sites per pair - Above diagonal is
 for CYTB and below diagonal is for COXI
