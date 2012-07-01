@@ -1,11 +1,25 @@
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;th&gt;ID&lt;/th&gt;&lt;th&gt;Name&lt;/th&gt;&lt;th&gt;Rank&lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;1&lt;/td&gt;&lt;td&gt;Tom Preston-Werner&lt;/td&gt;&lt;td&gt;Awesome&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;2&lt;/td&gt;&lt;td&gt;Albert Einstein&lt;/td&gt;&lt;td&gt;Nearly as awesome&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
+<table>
+  <tr>
+    <th></th>
+    <th>Tables</th>
+    <th>Are</th>
+    <th>Cool</th>
+  </tr>
+  <tr>
+    <th>Zebra</th>
+    <td>Stripes</td>
+    <td>Are</td>
+    <td>Pretty</td>
+  </tr>
+  <tr>
+    <th>Here</th>
+    <td>Is</td>
+    <td>Another</td>
+    <td>Row</td>
+  </tr>
+</table>
+
+First Header | Second Header
+------------ | -------------
+Content Cell | Content Cell
+Content Cell | Content Cell
